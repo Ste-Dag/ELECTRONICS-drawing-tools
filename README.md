@@ -2,7 +2,7 @@
 
 Download [Kicad](https://github.com/KiCad)
 
-Use the **symbol editor** to load the library (ANALOG_DRAW.kicad_sym):
+Use the **symbol editor** to load the analog library (ANALOG_DRAW.kicad_sym) and the digital library (DIGITAL_DRAW.kicad_sym):
 
 <p align="center">
     <img src="https://github.com/Ste-Dag/ELECTRONICS-drawing-tools/blob/750f0c2bbf8a2820f1d578b326b3f4bce518c590/ALLcomponents.JPG" width="65%">
@@ -21,3 +21,9 @@ ___________________________________________________________________
 **DRAW DIGITAL signals** 
 
 Download [WaveDrom](https://github.com/wavedrom/wavedrom)
+
+___________________________________________________________________
+**DRAW ANALOG signals** 
+
+Download [Octave](https://github.com/gnu-octave)
+
