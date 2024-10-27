@@ -25,5 +25,9 @@ Download [WaveDrom](https://github.com/wavedrom/wavedrom)
 ___________________________________________________________________
 **DRAW ANALOG signals** 
 
-Download [Octave](https://github.com/gnu-octave)
+Use [Octave](https://github.com/gnu-octave) if the signals are made up of basic functions (e.g. step, ramp, sine...)
 
+Use [Xfig](https://mcj.sourceforge.net/frm_introduction.html) if you need to draw complex spline signals 
+
+Use [Inkscape](https://github.com/inkscape/inkscape) to post-process the result.
+ 
