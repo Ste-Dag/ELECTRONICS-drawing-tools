@@ -5,8 +5,12 @@ Download [Kicad](https://github.com/KiCad)
 Use the **symbol editor** to load the analog library (ANALOG_DRAW.kicad_sym) and the digital library (DIGITAL_DRAW.kicad_sym):
 
 <p align="center">
-    <img src="https://github.com/Ste-Dag/ELECTRONICS-drawing-tools/blob/750f0c2bbf8a2820f1d578b326b3f4bce518c590/ALLcomponents.JPG" width="65%">
+    <img src="https://github.com/Ste-Dag/ELECTRONICS-drawing-tools/blob/750f0c2bbf8a2820f1d578b326b3f4bce518c590/img/Digital.jpeg" width="65%">
 </p>
+<p align="center">
+    <img src="https://github.com/Ste-Dag/ELECTRONICS-drawing-tools/blob/750f0c2bbf8a2820f1d578b326b3f4bce518c590/img/Analog.JPG" width="65%">
+</p>
+
 
 Use the **schematic editor** to draw your circuits :
 *  press A to select the components 
