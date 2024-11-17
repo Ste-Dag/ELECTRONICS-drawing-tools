@@ -4,7 +4,7 @@ Download [Kicad](https://github.com/KiCad)
 
 Use the **symbol editor** to load the analog library (ANALOG_DRAW.kicad_sym):
 <p align="center">
-    <img src="img/Analog.JPG" width="65%">
+    <img src="img/Analog2.JPG" width="65%">
 </p>
  and the digital library (DIGITAL_DRAW.kicad_sym):
 <p align="center">
