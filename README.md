@@ -15,11 +15,11 @@ Use the **symbol editor** to load the analog library (ANALOG_DRAW.kicad_sym):
 Use the **schematic editor** to draw your circuits :
 *  press A to select the components 
 *  press R to rotate the components, X to mirror horizontally, Y to mirror vertically 
-*  press CTRL-C/ CTRL-V to copy the components 
+*  press CTRL-C/CTRL-V to copy/paste the components 
 *  press W to create a wire
 *  press T to add text or node names  
 
-Click on File/Plot to export your work in PDF, SVG format ... 
+Click on File->Plot to export your work in PDF, SVG format ... 
 
 ___________________________________________________________________
 **DRAW DIGITAL signals** 
